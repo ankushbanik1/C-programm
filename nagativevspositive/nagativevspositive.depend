@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1555077588 source:c:\c programm\nagativevspositive\main.c
+	<stdio.h>
+	<stdlib.h>
+

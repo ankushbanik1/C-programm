@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1554637550 source:c:\c programm\pyramidstar\main.c
+	<stdio.h>
+	<stdlib.h>
+
